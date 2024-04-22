@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export>
+                            
+
+    
+    <pdf marginBottom="50" marginLeft="60" marginRight="60" marginTop="50">
+              
+        
+        <header height="35">
+                   
+            
+            <![CDATA[
+            <table width="100%" style="border-top:1px solid rgb(105,105,105) ; border-left:1px solid rgb(105,105,105) ; border-right:1px solid rgb(105,105,105) ; color:rgb(0, 0, 0) ; font-size: 18px !important; margin-bottom: 0px;">
+                <tr>
+                   <td width="30%" height= "60%" style="color:rgb(255, 0, 0) ; font-size: 50px"><a href="https://www.jjvision.com/"><img src = "https://polarion-jnj-dev.plmmscloudsolutions.com/polarion/svnwebclient/fileDownload.jsp?url=SiemensDevelopment%2FdocumentTemplateLibrary%2FJJV%20Logo%20for%20PDF%20export%2F1-JJV.PNG&crev=31087"></a></td>
+                    <td width="40%" align="center"><b><i>$[documentTitle]</i></b></td>
+                    <td width="30%" align="right"><b>DHFXXXX-XXXX Rev X  &nbsp;</b></td>
+                </tr>
+            </table>]]>
+                                                                 
+            
+            
+            
+            <![CDATA[
+            <table width="100%" style="border-top:1px solid rgb(105,105,105) ; border-bottom:1px solid rgb(105,105,105) ; border-left:1px solid rgb(105,105,105) ; border-right:1px solid rgb(105,105,105) ; color:rgb(0, 0, 0) ; font-size: 25px !important; margin-bottom: 20px;">
+                <tr>
+                 
+                    <td width="100%" align="center"><b><i style="color: blue;">&lt;Product Name&gt;</i>   $[documentTitle] </b></td>
+                   
+                </tr>
+            </table>]]>
+             
+        
+        </header>
+          
+        
+        <footer height="25">
+                
+            
+            <![CDATA[
+            <table width="100%" style="border-top:1px solid rgb(105,105,105); color:rgb(128,128,128); font-size: 11px !important;">
+                <tr>
+                    <td width="30%"><span style="color:rgb(0,0,0);">$[page] / $[total] Pages </span></td>
+                     <td width="40%" align="center" style="color:rgb(0,0,0);">FRD00189 Rev04 </td>
+                    <td width="70%" align="right"  style="color:rgb(0,0,0);">$[generated] UTC</td>
+                </tr>
+            </table>]]>
+                    
+            
+            <![CDATA[
+            <table width="100%" style=" color:rgb(128,128,128); font-size: 11px !important;">
+             
+                  <tr>
+                    <td width="100%" align="center"> This information is confidential to Johnson & Johnson. The user is responsible for using the appropriate version of this document.</td>
+                </tr>
+            
+            </table>]]>
+                    
+        </footer>
+                                                    
+    
+  
+    
+    </pdf>
+       
+    
+    
+
+</export>
